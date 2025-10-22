@@ -92,6 +92,6 @@ PYTHONPATH=$(pwd) pytest -v tests/
 ---
 
 ## Badges
-![Tests](https://github.com/yingorr/is4010-yingorr-labs/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/yingorr/themealdb-cli/actions/workflows/tests.yml/badge.svg)
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
